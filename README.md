@@ -8,6 +8,8 @@
 
 <p align="left">I'm from Argentina , Mar del plata <br><br>- 🔭 Ready to work<br>- 📚 I'm currently perfecting  python<br>-contact me :juanihussen@gmail.com</p>
 
+🖥️  Ve mi portfolio [aqui](https://juanihussen.github.io/Portfolio/)
+
 ###
 
 <div align="center">
