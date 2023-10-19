@@ -1,8 +1,4 @@
-<h1 align="center">Hola ! 👋  Hi !</h1>
-
-<div align="center">
-  <img height="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-</div>
+<h1 align="center">Soy juani  ! 👋</h1>
 
 ###
 
@@ -14,7 +10,9 @@
 
 ###
 
-
+<div align="center">
+  <img height="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 
 ###
 
